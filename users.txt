@@ -1,0 +1,15 @@
+root
+admin
+administrator
+msfadmin
+user
+service
+postgres
+sys
+klog
+ftp
+guest
+test
+oracle
+mysql
+nobody
